@@ -46,3 +46,19 @@ A **fully functional personal blog homepage** built with modern design principle
 Includes **12 sample posts** across multiple categories to demonstrate functionality.  
 
 ---
+## 📦 Tech Stack  
+- **HTML5**  
+- **CSS3 + Animations**  
+- **JavaScript (ES6)**  
+
+---
+
+## 🌐 Live Demo  
+👉 [View Website](https://hamadrafi.github.io/The-Daily-Flow-Blog/)  
+
+---
+
+## 📜 License  
+This project is licensed under the **MIT License** – feel free to use and modify.  
+
+
